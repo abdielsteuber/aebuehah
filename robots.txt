@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahreeboo.pousadasantanna.com/sitemap.xml
